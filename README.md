@@ -1,3 +1,5 @@
-elastic-coin
+                                                Elastic Coin System
 
-Java based crypto currency core
+                                              Ядро криптовалюты на Java
+
+
